@@ -51,3 +51,11 @@ The compiled application will be placed in the `dist/` directory.
 
 ## License
 This project is licensed under the terms provided in the LICENSE file.
+
+## 🐳 Docker Support
+
+Run the system seamlessly using Docker (requires X11 forwarding on host):
+
+`ash
+docker compose up --build
+`
