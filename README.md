@@ -1,5 +1,7 @@
 # Modern Website Builder
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 Desktop GUI app (tkinter). Generates static HTML websites (landing pages, profiles, portfolios) without writing code; ships with templates and generators.
 
 ## Run
